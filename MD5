@@ -1,0 +1,12 @@
+d5361861159cfb7d5c833133eeab9047 *DESCRIPTION
+a732adad9ec5acdd2e7bfbc76e053761 *NAMESPACE
+48700e2df894375f18fb9efbfcea8448 *R/assert.R
+b4fe12876c37f8a22cde06e9701eecf0 *R/bigassertr-package.R
+a29c0b69c1ff4e6875e48104f20a7211 *R/message.R
+b05c88e4a1de0ce9cd52a2e5145ad5f5 *README.md
+ef01f918855f1444bd798f801cd86fb1 *man/assert.Rd
+7e495b0bea4bee6e3fd5f99302fa705d *man/bigassertr-package.Rd
+f4725bb7cd0b1a5d92fbe210173e9800 *man/printf.Rd
+4636f48040f3e53a7f19cc336f7590f3 *tests/testthat.R
+d6ea6b6c737c81fa0d5a37934f4b8a83 *tests/testthat/test-assert.R
+b7c2ab70e61986166163fba5f1f7b1a6 *tests/testthat/test-message.R
