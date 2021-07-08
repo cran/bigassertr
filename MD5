@@ -1,6 +1,6 @@
-63a058ac8ac3063ed1decc6bf9eb5b43 *DESCRIPTION
+34f4b29cb1733b4d72543fa0583db241 *DESCRIPTION
 7f351afcc5496d5beed9fad8db5d2d60 *NAMESPACE
-0ea15efe206af263a7b0d801fe8b6e54 *R/assert.R
+ea43bb038c3aa1b272cdf091184ae2e9 *R/assert.R
 36909710e27750e6559681e116ff9e80 *R/bigassertr-package.R
 b3cca70940bbab0a2a7d65186de7573c *R/message.R
 ac48a3aaaef8c9efe7ff9a7fef6aeedf *README.md
@@ -8,5 +8,5 @@ b0cb48f908a0041961a8f36b99b88c59 *man/assert.Rd
 0e08e3ac55d98520bc05b5478b28b76b *man/bigassertr-package.Rd
 847ed040b93d25e4a9f86f89a74cc29b *man/printf.Rd
 4c0ed49e81f2287a95539891bebc040a *tests/testthat.R
-2e598ab0470e197ae23c28bb47394eb3 *tests/testthat/test-assert.R
+10be3f136aee90a393132c73ca1ec3b5 *tests/testthat/test-assert.R
 9dd98e9a50d85d8ce73bc627f9943687 *tests/testthat/test-message.R
