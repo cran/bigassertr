@@ -1,7 +1,7 @@
 Package: bigassertr
 Title: Assertion and Message Functions
-Version: 0.1.5
-Date: 2021-07-08
+Version: 0.1.6
+Date: 2022-12-30
 Authors@R: 
     person(given = "Florian",
            family = "Privé",
@@ -13,13 +13,13 @@ Description:
     (e.g. to check class, length, values, files, arguments, etc.).
 License: GPL-3
 Encoding: UTF-8
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.2
 Suggests: testthat, covr
 URL: https://github.com/privefl/bigassertr
 BugReports: https://github.com/privefl/bigassertr/issues
 NeedsCompilation: no
-Packaged: 2021-07-08 11:39:53 UTC; au639593
+Packaged: 2023-01-10 15:55:07 UTC; au639593
 Author: Florian Privé [aut, cre]
 Maintainer: Florian Privé <florian.prive.21@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-07-08 21:30:02 UTC
+Date/Publication: 2023-01-10 16:20:07 UTC
